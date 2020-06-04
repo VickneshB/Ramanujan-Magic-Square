@@ -15,5 +15,6 @@
 	```
 3.  Run
 	```
+	$ cd python
 	$ python3 Ramanujan-Magic-Square.py
 	```
